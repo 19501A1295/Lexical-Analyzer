@@ -1,0 +1,26 @@
+
+Enter the file name:test.txt
+
+
+S.No         Token             Lexeme                  Line No
+   1        keyword                          void            1
+   2       identifier                         ain            1
+   3       parenthesis              (                        1
+   4       parenthesis              )                        1
+   5         brace                  {                        2
+   6        keyword                           int            3
+   7       punctuation              ;                        3
+   8        function                       printf            4
+   9       parenthesis              (                        4
+  10         string                    Hello World            4
+  11       parenthesis              )                        4
+  12       punctuation              ;                        4
+  13       identifier                       scanf            5
+  14       parenthesis              (                        5
+  15         string                             %d            5
+  16       punctuation              ,                        5
+  17         operator               &                        5
+  18       identifier                           a            5
+  19       parenthesis              )                        5
+  20       punctuation              ;                        5
+  21         brace                  }                        6
